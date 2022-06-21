@@ -4,12 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * A class with a main method, for testing the classes implemented in the JP2 lab exam 2018.
- * 
- * Feel free to modify this class to test your code under various configurations.
- * 
- * @author mefoster
- *
+ * A class with a main method, for testing the classes implemented.
  */
 public class SuperheroMain {
 
